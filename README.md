@@ -2,7 +2,7 @@
 
 #Start with newfacecrop1 file
 
-#i'd used the start orl face data
+#i'd used the standard orl face data
 
 #Go through each and every file
 
