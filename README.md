@@ -2,8 +2,8 @@
 
 #Start with newfacecrop1 file
 
-#i'd used the standard orl face data
+#we had used the standard orl face data
 
 #Go through each and every file
 
-#the last file NNT.m tells the accuracy to which are system works.
+#the last file NNT.m tells the accuracy upto which the images matched correctly.
