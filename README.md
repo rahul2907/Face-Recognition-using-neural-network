@@ -7,7 +7,7 @@
 #2.Then we apply Gabor-filter which detect the edges like eyes,nose and lips etc.
 
 #3.Now we divide the image into 9 parts and apply LSP method on each part 
-#and combine the features obtained from each part.
+and combine the features obtained from each part.
 
 #4.The obtained features were fed into the Neural Network for the training.
 
